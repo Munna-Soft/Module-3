@@ -1,0 +1,14 @@
+[
+    {
+        "task": "task 1",
+        "completed": true
+    },
+    {
+        "task": "task 2",
+        "completed": true
+    },
+    {
+        "task": "task 3",
+        "completed": false
+    }
+]
